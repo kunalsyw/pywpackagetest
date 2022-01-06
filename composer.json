@@ -1,0 +1,22 @@
+{
+    "name": "pyw/pywpackagetest",
+    "version": "1.0.0",
+    "description": "Payment Service Integration",
+    "type": "magento2-module",
+    "require": {
+        "php": "^7.4.0",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "PayYourWay\\Pyw\\": ""
+        }
+    }
+}
