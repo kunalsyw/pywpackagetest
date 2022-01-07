@@ -18,6 +18,5 @@
         "psr-4": {
             "PayYourWay\\Pyw\\": ""
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
