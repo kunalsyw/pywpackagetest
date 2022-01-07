@@ -1,5 +1,5 @@
 {
-    "name": "pyw/pywpackagetest",
+    "name": "kunalsyw/pywpackagetest",
     "version": "1.0.0",
     "description": "Payment Service Integration",
     "type": "magento2-module",
@@ -19,5 +19,5 @@
             "PayYourWay\\Pyw\\": ""
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
