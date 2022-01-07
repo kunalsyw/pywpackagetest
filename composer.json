@@ -4,8 +4,7 @@
     "description": "Payment Service Integration",
     "type": "magento2-module",
     "require": {
-        "php": "^7.4.0",
-        "squizlabs/php_codesniffer": "*"
+        "php": "^7.4.0"
     },
     "license": [
         "OSL-3.0",
